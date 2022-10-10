@@ -183,4 +183,15 @@ img {
         padding: 0;
     }
 
+    .steps{
+        margin-bottom: 0;
+    }
+    
+    .why-us{
+        background-color: black;
+        margin-bottom: 0;
+        padding-bottom: 3rem;
+        padding-top: 3rem;
+    }
+
 }
